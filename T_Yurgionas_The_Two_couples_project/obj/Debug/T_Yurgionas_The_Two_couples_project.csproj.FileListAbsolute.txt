@@ -1,0 +1,6 @@
+c:\users\red panda\documents\visual studio 2015\Projects\T_Yurgionas_The_Two_couples_project\T_Yurgionas_The_Two_couples_project\bin\Debug\T_Yurgionas_The_Two_couples_project.exe.config
+C:\Users\Red Panda\documents\visual studio 2015\Projects\T_Yurgionas_The_Two_couples_project\T_Yurgionas_The_Two_couples_project\obj\Debug\T_Yurgionas_The_Two_couples_project.csprojResolveAssemblyReference.cache
+C:\Users\Red Panda\documents\visual studio 2015\Projects\T_Yurgionas_The_Two_couples_project\T_Yurgionas_The_Two_couples_project\bin\Debug\T_Yurgionas_The_Two_couples_project.exe
+C:\Users\Red Panda\documents\visual studio 2015\Projects\T_Yurgionas_The_Two_couples_project\T_Yurgionas_The_Two_couples_project\bin\Debug\T_Yurgionas_The_Two_couples_project.pdb
+C:\Users\Red Panda\documents\visual studio 2015\Projects\T_Yurgionas_The_Two_couples_project\T_Yurgionas_The_Two_couples_project\obj\Debug\T_Yurgionas_The_Two_couples_project.exe
+C:\Users\Red Panda\documents\visual studio 2015\Projects\T_Yurgionas_The_Two_couples_project\T_Yurgionas_The_Two_couples_project\obj\Debug\T_Yurgionas_The_Two_couples_project.pdb
